@@ -38,3 +38,6 @@ packages/NUnit3TestAdapter.3.9.0/build/net35/NUnit3TestAdapter.props
 packages/NUnit3TestAdapter.3.9.0/build/netcoreapp1.0/NUnit3TestAdapter.props
 packages/NUnit3TestAdapter.3.9.0/LICENSE.txt
 packages/NUnit3TestAdapter.3.9.0/NUnit3TestAdapter.3.9.0.nupkg
+.vs/InterestCalculator/v15/Server/sqlite3/storage.ide
+.vs/InterestCalculator/v15/Server/sqlite3/storage.ide-shm
+.vs/InterestCalculator/v15/Server/sqlite3/storage.ide-wal
