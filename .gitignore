@@ -1,0 +1,6 @@
+
+*.lock
+*.exe
+InterestCalculator.Tests/bin/Debug/InterestCalculator.exe.config
+*.pdb
+*.dll
